@@ -12,3 +12,12 @@ After the image tag gets updated in this repository a webhook is triggered and a
 ![Deployment_automation][logo]
 
 [logo]: https://github.com/dineshnatarajan111/ST-Mediawiki/blob/main/img/Deployment_automation.png "Deployment_automation"
+
+### Terraform variables
+
+To create a new Environment duplicate the available tfstate file and pdate the changes which are Environment specific and commit the changes to the branch. Trigger a pipeline job responsible to Create/Destroy 
+the Enironment.
+
+![Environment Creation][logo]
+
+[logo]: https://github.com/dineshnatarajan111/ST-Mediawiki/blob/main/img/Terraform_statefile.png "Environment Creation"
