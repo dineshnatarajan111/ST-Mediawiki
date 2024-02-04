@@ -10,4 +10,5 @@ When there is a new image is built using a pipeline after pushing the Image with
 After the image tag gets updated in this repository a webhook is triggered and automated deployment/upgrade of pods are done by the deployment pipeline.
 
 ![Deployment_automation][logo]
+
 [logo]: https://github.com/dineshnatarajan111/ST-Mediawiki/tree/main/img/Deployment_automation.png "Deployment_automation"
