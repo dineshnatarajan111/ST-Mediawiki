@@ -4,6 +4,7 @@
 
 RootPassword: ""
 replicaCount: 1
+namespace: dev
 
 image:
   repository: mysql
