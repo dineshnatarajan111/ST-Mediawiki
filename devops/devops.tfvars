@@ -1,4 +1,4 @@
-resourcegroup_name = "Az-DEV"
+resourcegroup_name = "Az-devops"
 location = "centralindia"
 environment = "devops"
 
