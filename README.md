@@ -11,4 +11,4 @@ After the image tag gets updated in this repository a webhook is triggered and a
 
 ![Deployment_automation][logo]
 
-[logo]: https://github.com/dineshnatarajan111/ST-Mediawiki/tree/main/img/Deployment_automation.png "Deployment_automation"
+[logo]: https://github.com/dineshnatarajan111/ST-Mediawiki/blob/main/img/Deployment_automation.png "Deployment_automation"
